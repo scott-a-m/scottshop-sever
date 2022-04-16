@@ -1,0 +1,255 @@
+[
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648816033/scott-shop/womens-tshirt-01_klhq1a.jpg",
+      "name": "t-shirt",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 1000,
+      "type": "t-shirts",
+      "category": "womens",
+      "colors": ["#000000", "#FFFFFF", "#808080", "#191970"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "inventory": 30,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648610470/scott-shop/mens-jumper-01_jmulqi.jpg",
+      "name": "jumper",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 2000,
+      "type": "jumpers",
+      "category": "mens",
+      "colors": ["#000000", "#FFFFFF", "#DC143C", "#191970"],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "inventory": 20,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648816033/scott-shop/womens-tshirt-02_ns2yre.jpg",
+      "name": "t-shirt",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 1500,
+      "type": "t-shirts",
+      "category": "womens",
+      "colors": ["#000000", "#FFFFFF", "#FF6347"],
+      "sizes": ["XS", "S", "M", "L"],
+      "inventory": 15,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648816034/scott-shop/mens-tshirt-01_kkyatb.jpg",
+      "name": "t-shirt",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 1000,
+      "type": "t-shirts",
+      "category": "mens",
+      "colors": ["#000000", "#FFFFFF"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "inventory": 15,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+  
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648816035/scott-shop/womens-tshirt-03_kcwxyk.jpg",
+      "name": "t-shirt",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 2000,
+      "type": "t-shirts",
+      "category": "womens",
+      "colors": ["#FFFFFF", "#FA8072", "#FFE4E1"],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "inventory": 25,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648816034/scott-shop/mens-tshirt-02_lzutnh.jpg",
+      "name": "t-shirt",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 1300,
+      "type": "t-shirts",
+      "category": "mens",
+      "colors": ["#000000", "#FFFFFF", "#808080", "#191970"],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "inventory": 25,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648816033/scott-shop/mens-tshirt-03_rbeygs.jpg",
+      "name": "t-shirt",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 1800,
+      "type": "t-shirts",
+      "category": "mens",
+      "colors": ["#EE82EE", "#FFFFFF", "#808080", "#191970"],
+      "sizes": ["S", "M", "L", "XL"],
+      "inventory": 15,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648612289/scott-shop/womens-jumper-01_irnswx.jpg",
+      "name": "jumper",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 4000,
+      "type": "jumpers",
+      "category": "womens",
+      "colors": ["#EE82EE", "#FFFFFF", "#808080", "#191970"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "inventory": 15,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648612486/scott-shop/womens-jumper-02_lp3d5m.jpg",
+      "name": "jumper",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 3500,
+      "type": "jumpers",
+      "category": "womens",
+      "colors": ["#FF8C00", "#FFFFFF", "#808080", "#191970"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "inventory": 15,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648612677/scott-shop/mens-jumper-02_hmh84m.jpg",
+      "name": "jumper",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 2500,
+      "type": "jumpers",
+      "category": "mens",
+      "colors": ["#000080", "#FFFFFF"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "inventory": 15,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648618755/scott-shop/womens-jeans-01_rrxn69.jpg",
+      "name": "jeans",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 4500,
+      "type": "jeans",
+      "category": "womens",
+      "colors": ["#87CEEB"],
+      "sizes": ["XS", "S", "M", "L"],
+      "inventory": 15,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648619929/scott-shop/womens-jeans-02_ptzgku.jpg",
+      "name": "jeans",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 4000,
+      "type": "jeans",
+      "category": "womens",
+      "colors": ["#87CEEB"],
+      "sizes": ["XS", "S", "M", "L"],
+      "inventory": 25,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648620110/scott-shop/mens-jeans-01_pfuv9p.jpg",
+      "name": "jeans",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 3500,
+      "type": "jeans",
+      "category": "mens",
+      "colors": ["#87CEEB"],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "inventory": 20,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648620466/scott-shop/mens-jeans-02_bujr8c.jpg",
+      "name": "jeans",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 3000,
+      "type": "jeans",
+      "category": "mens",
+      "colors": ["#87CEEB"],
+      "sizes": ["S", "M", "L", "XL"],
+      "inventory": 25,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648621044/scott-shop/womens-shorts-01_wmssz4.jpg",
+      "name": "shorts",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 2500,
+      "type": "shorts",
+      "category": "womens",
+      "colors": ["#8B4513"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "inventory": 25,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648621309/scott-shop/womens-shorts-02_syaphr.jpg",
+      "name": "shorts",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 3500,
+      "type": "shorts",
+      "category": "womens",
+      "colors": ["#708090"],
+      "sizes": ["XS", "S", "M", "L"],
+      "inventory": 8,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648621593/scott-shop/mens-shorts-01_muuhba.jpg",
+      "name": "shorts",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 3500,
+      "type": "shorts",
+      "category": "mens",
+      "colors": ["#F08080"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "inventory": 12,
+      "user": "624407a32e2ed9df9f9a9287"
+    },
+    {
+      "image":
+        "https://res.cloudinary.com/scott-cloud/image/upload/v1648621928/scott-shop/mens-shorts-02_ydpiza.jpg",
+      "name": "shorts",
+      "description":
+        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero voluptate tempora, fuga ipsam est officiis delectus cumque rem ad molestiae! Deserunt ea quod amet sed qui, eos voluptates labore necessitatibus.",
+      "price": 1800,
+      "type": "shorts",
+      "category": "mens",
+      "colors": ["#00FFFF", "#FFFACD"],
+      "sizes": ["M", "L", "XL"],
+      "inventory": 18,
+      "user": "624407a32e2ed9df9f9a9287"
+    }
+  ]
